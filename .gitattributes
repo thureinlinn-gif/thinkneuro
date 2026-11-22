@@ -1,0 +1,2 @@
+# Show SQL in GitHub's language bar (Linguist hides .sql files by default)
+*.sql linguist-detectable=true linguist-language=SQL
